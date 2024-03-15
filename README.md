@@ -1,3 +1,7 @@
+# Bi-criteria
+
+Code for "Active Discovering New Slots for Task-oriented Conversation" TASLP'24
+
 # 1.Environment
 
 First, create a virtual environment and activate it:
